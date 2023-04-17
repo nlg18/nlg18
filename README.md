@@ -1,7 +1,7 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nícolas Leite
 A data analysis student, fascinated by handling data and extracting valuable insights from it.
 I have a keen analytical vision and commitment to the quality and accuracy of the data I handle.
-I am also a student at [Estácio](https://estacio.br), studying [Systems Analysis and Development](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas).
+I am  studying [Systems Analysis and Development](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) at Estácio College.
 
 * 🌍  I'm based in Minas Gerais, Brazil <br>
 * 🧠  I'm into Data (analysis, visualizing, decision-making) <br>

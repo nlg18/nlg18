@@ -3,7 +3,7 @@ A data analysis student, fascinated by handling data and extracting valuable ins
 Keen analytical vision and commitment to the quality and accuracy of the data I handle.<br>
 
 * 🌍  I'm based in Minas Gerais, Brazil <br>
-* 🧠  I'm into Data (analysis, visualizing, decision-making) <br>
+* 🧠  I'm into Data (analysis, visualizing, decision-making, powerbi) <br>
 * ✉️  You can email me at [nicolasleite2003@gmail.com](mailto:nicolasleite2003@gmail.com)
 * 🚀  Currently Studies: Data Analysis at Practicum <br>
   &  Graduating in [Systems Analysis and Development](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas).

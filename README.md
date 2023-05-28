@@ -8,6 +8,6 @@ A data analysis student, fascinated by handling data and extracting valuable ins
 [Google Drive](https://docs.google.com/document/d/1NF0atF--Q2LMm9rLnYOliU_N198Oe6Ri/edit?usp=share_link&ouid=115620969893778032359&rtpof=true&sd=true)
 
 ### Contact
-<p align="left"></a> <a href="https://www.github.com/nlg18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a> <a href="https://www.linkedin.com/in/nicolas-leite-4b088a268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
+<p align="left"></a> <a href="https://www.linkedin.com/in/nicolas-leite-4b088a268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
 </p>
 ✉️  nicolasleite2003@gmail.com

@@ -2,6 +2,7 @@
 - Now I'm working as Python developer, dealing with MySQL Databases (through Python) & Process Automation
 <br>
 - 🧠  Expanding horizons towards Data analysis, visualizing, decision-making. <br>
+<br>
 - 🚀  Currently Courses: <br>
   - Data Analysis at TripleTen <br>
   - Graduating in Systems Analysis and Development <br>

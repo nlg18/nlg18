@@ -1,8 +1,10 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nícolas Leite
-A data analysis student, fascinated by handling data and extracting valuable insights from it. <br>
-* 🧠  Data analysis, visualizing, decision-making. <br>
-* 🚀  Currently Studies: Data Analysis at Practicum <br>
-    &  Graduating in Systems Analysis and Development.
+- Now I'm working as Python developer, dealing with MySQL Databases (through Python) & Process Automation
+<br>
+* 🧠  Expanding horizons towards Data analysis, visualizing, decision-making. <br>
+* 🚀  Currently Courses: Data Analysis at TripleTen <br>
+    &  Graduating in Systems Analysis and Development
+    & Prompt Engineering.
 
 ### Curriculum
 ![Click Here](https://drive.google.com/file/d/1DYqK48WKa6-fcGDNHLe7IAPzKxnarZz6/view?usp=drive_link)

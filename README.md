@@ -4,7 +4,7 @@
 <br>
 🚀Expanding horizons:
 towards Data analysis, visualizing, decision-making.
-<br>
+<br> 
 🧠Currently Courses:
 - Data Analysis at TripleTen <br>
 - Graduating in Systems Analysis and Development <br>

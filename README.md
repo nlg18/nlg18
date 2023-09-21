@@ -3,7 +3,7 @@
 <br>
 * 🧠  Expanding horizons towards Data analysis, visualizing, decision-making. <br>
 * 🚀  Currently Courses: Data Analysis at TripleTen <br>
-    &  Graduating in Systems Analysis and Development
+    &  Graduating in Systems Analysis and Development <br>
     & Prompt Engineering.
 
 ### Curriculum

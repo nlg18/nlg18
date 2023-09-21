@@ -1,4 +1,3 @@
-## Hi! <br>
 ### My name is Nícolas Leite 
 <br>
 - Now I'm working as Python developer, dealing with MySQL Databases (through Python) & Process Automation <br>

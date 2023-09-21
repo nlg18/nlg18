@@ -1,7 +1,6 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nícolas Leite
 - Now I'm working as Python developer, dealing with MySQL Databases (through Python) & Process Automation
-<br>
-🚀Expanding horizons:
+🚀Expanding horizons: <br>
 towards Data analysis, visualizing, decision-making.
 <br> 
 🧠Currently Courses: <br>

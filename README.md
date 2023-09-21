@@ -12,7 +12,7 @@ towards Data analysis, visualizing, decision-making.
 
 
 ### Curriculum
-![Click Here](https://drive.google.com/file/d/1DYqK48WKa6-fcGDNHLe7IAPzKxnarZz6/view?usp=drive_link)
+📎![Click Here](https://drive.google.com/file/d/1DYqK48WKa6-fcGDNHLe7IAPzKxnarZz6/view?usp=drive_link)
 
 ### Contact
 <p align="left"></a> <a href="https://www.linkedin.com/in/nicolas-leite-4b088a268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
